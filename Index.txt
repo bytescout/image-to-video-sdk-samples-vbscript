@@ -1,5 +1,4 @@
-## Index of source code examples
-
+## Index of source code examples:
 
 \67 standard transition effects
 \70 advanced 3D effects
