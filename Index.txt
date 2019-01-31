@@ -1,17 +1,17 @@
 ## Index of source code examples:
 
-\67 standard transition effects
-\70 advanced 3D effects
+\60 Standard Transition Effects
+\70 Advanced 3D Effects
 \All Transition Effects
-\Background picture
+\Background Picture
 \Convert WAV to WMV
 \Double Speed
 \Multiple Instances
 \Pan And Zoom Effects
-\Pan effects for slides
+\Pan Effects For Slides
 \Replace Audio In Existing Video
 \Set Background Music from file
 \Set WMV Audio Format
 \Simple
-\Slide effects (Ease In and Ease Out)
-\WebM output
+\Slide Effects (Ease In and Ease Out)
+\WebM Output
